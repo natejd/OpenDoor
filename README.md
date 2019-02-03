@@ -1,3 +1,3 @@
 # Open Door (CS:GO/CS:S)
 
-* Open's doors and keeps them open.
+* Simple plugin to open doors on the map and keep them open.
