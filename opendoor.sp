@@ -10,7 +10,7 @@ public Plugin myinfo =
 	author = "natejd",
 	description = "Open's all doors on the map and keeps them open.",
 	version = "0.1",
-	url = ""
+	url = "https://github.com/natejd/OpenDoor"
 };
 
 public void OnMapStart()
